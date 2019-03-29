@@ -31,7 +31,7 @@ body{
         background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=2d8ec95b28&attid=0.1&permmsgid=msg-a:r-6435752926368701435&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_UJ8zmNF6GFBGoL1-tBlvE_is9A1UjA_uy_kXtUHe3Ho3sXa9fvikJy6oToIImgdHoK72qe9qlRmwVjqmEQCcwZJTP9O9PqQ3wTeL1cqaHdo4XNB76PVRQvfI&disp=emb&realattid=ii_jp2n4l7y0");
 }
 h1{
-     font-family:'Indie Flower', cursive; 
+    /* font-family:'Indie Flower', cursive; */
 }
 .pic{
     border:gold 20px inset; 
